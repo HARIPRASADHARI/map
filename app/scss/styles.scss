@@ -1,0 +1,10 @@
+.text {
+    width: percentage(5/7);
+}
+
+p {
+    color: red;
+    &:hover {
+        color: pink;
+    }
+}

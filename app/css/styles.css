@@ -1,0 +1,7 @@
+.text {
+  width: 71.42857%; }
+
+p {
+  color: red; }
+  p:hover {
+    color: pink; }
